@@ -11,3 +11,7 @@ Blockchain technology is a decentralized database, which keeps track of the proc
 # What is a smart contract?
 
 Smart contract is a automade agreement on blockchain that allows buyers and sellers to make deals directly without a third party involved. A smart contract is efficient and transparent, which protects the rights of all participants. 
+
+# Full paper
+
+https://docs.google.com/document/d/1K4vAyZKaUSvSoMEG14ifVOw9g28uqrQbbhpSwqqu8Ec/edit?usp=sharing
